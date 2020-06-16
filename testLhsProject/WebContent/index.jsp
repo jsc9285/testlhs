@@ -13,7 +13,6 @@
 
 	AAAA
 	BBBB
-	XXXX
 	CCCC
 
 </body>
