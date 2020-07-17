@@ -1,4 +1,4 @@
-package com.edu;
+package com.edu.util;
 
 public class Calc {
 
